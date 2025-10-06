@@ -3,7 +3,7 @@
  * Plugin Name: Simple Site Title Override
  * Description: Nadpisuje tytuł dokumentu w WordPressie tak, aby zawsze wyświetlała się tylko nazwa witryny.
  * Version:     1.0.0
- * Author:      FreewayIT
+ * Author:      Kamil Błoński
  * License:     GPL2
  * Text Domain: simple-site-title-override
  */
